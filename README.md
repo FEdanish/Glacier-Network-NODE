@@ -11,3 +11,9 @@ OPbnb RPC: https://chainlist.org/chain/5611
 ```console
 docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2
 ```
+
+<h1>CHECK LOGS</h1>
+
+```console
+docker logs -f glacier-verifier
+```
