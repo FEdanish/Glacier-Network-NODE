@@ -17,3 +17,9 @@ docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io
 ```console
 docker logs -f glacier-verifier
 ```
+
+<h1>CHECK STATUS</h1>
+link: https://testnet.nodes.glacier.io/status
+
+<h1>For more Hidden Alpha & Updates-- Follow us👇😎</h1>
+Telegram: https://Telegram.me/feature_earning
