@@ -1,1 +1,1 @@
-<h1>How to Install WSL & Ubuntu</h1>
+<h1>SETUP</h1>
